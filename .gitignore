@@ -1,0 +1,5 @@
+*.class
+/.vscode/*
+/.idea/*
+*.xlsx
+/data/*
